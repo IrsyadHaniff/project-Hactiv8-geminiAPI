@@ -279,3 +279,5 @@ clearBtn.addEventListener("click", () => {
   chatBox.appendChild(welcome);
   input.focus();
 });
+
+document.addEventListener("contextmenu", (e) => e.preventDefault());
