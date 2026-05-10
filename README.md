@@ -121,5 +121,5 @@ uploads/
 ---
 
 <div align="center">
-  <p>Dibuat dengan Google Gemini API</p>
+  <p>Dibuat dengan Google Gemini API & dikembangkan oleh <a href="https://www.instagram.com/monxyzvi/" target="_blank"> Irsyadhaniff</a></p>
 </div>
